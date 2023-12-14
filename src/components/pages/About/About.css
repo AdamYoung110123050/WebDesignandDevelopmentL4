@@ -1,0 +1,17 @@
+.About {
+  text-align: center;
+  background-color: #fbf6ed;
+}
+.Title{
+  text-align: right;
+  padding-right: 20mm;
+  padding-top: 10mm;
+}
+.Text{
+  text-align: right;
+  padding-right: 10mm;
+}
+.img{
+  width: 250px;
+  height: 250px;
+}
